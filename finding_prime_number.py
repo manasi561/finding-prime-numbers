@@ -1,5 +1,5 @@
 #Take input from user and store this as upper bound
-#Goal is to dind all the prime numbers below this value
+#Goal is to find all the prime numbers below this value
 
 upper_bound = int(input("Enter upper range within which you want prime numbers: "))
 
